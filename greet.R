@@ -1,6 +1,6 @@
 
 greet <- function(str)
 {
-  paste0("Hello",str)
+  paste0("Hello there",str)
   
 }
