@@ -1,5 +1,5 @@
 
-greeting_fun <- function(str)
+greet <- function(str)
 {
   paste0("Hello",str)
   
