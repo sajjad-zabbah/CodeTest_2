@@ -25,5 +25,5 @@ jobs:
         shell: Rscript {0}
 
       - name: Run R Script
-         run: Rscript "CodeTest_2/test/test_great.R"
+        run: Rscript "CodeTest_2/test/test_great.R"
 
